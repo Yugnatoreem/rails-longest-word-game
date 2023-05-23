@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ .card-letter {
+  background-color: blue;
+  padding: 15px;
+  border-radius: 4px;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 2px 2px 8px grey;
+  justify-content: center;
+  text-align: center;
+ }
+
+ .input{
+  margin: 10px;
+ }
